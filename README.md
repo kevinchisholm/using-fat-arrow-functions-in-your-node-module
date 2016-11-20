@@ -14,7 +14,7 @@ What you need to run this app:
 
 ### Setup
 
-* Clone this repo: git clone https://github.com/kevinchisholm/using-fat-arrow-functions-in-your-node-module
+* Clone this repo: git clone https://github.com/kevinchisholm/using-fat-arrow-functions-in-your-node-module.git
 * 
 * Run this command: **npm install**
 
